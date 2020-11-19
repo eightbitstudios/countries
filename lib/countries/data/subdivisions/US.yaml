@@ -1,28 +1,4 @@
 ---
-AA:
-  unofficial_names: Armed Forces Americas
-  translations:
-    en: Armed Forces Americas
-  geo:
-    latitude: 33.8934985
-    longitude: -117.2732567
-    min_latitude: 33.8403275
-    min_longitude: -117.2985014
-    max_latitude: 33.9460679
-    max_longitude: -117.2498013
-  name: Armed Forces Americas
-AE:
-  unofficial_names: Armed Forces Europe
-  translations:
-    en: Armed Forces Europe
-  geo:
-    latitude: 59.90441850000001
-    longitude: 10.7408094
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  name: Armed Forces Europe
 AK:
   unofficial_names: Alaska
   translations:
@@ -168,18 +144,6 @@ AL:
     max_latitude: 35.007889
     max_longitude: -84.888246
   name: Alabama
-AP:
-  unofficial_names: Armed Forces Pacific
-  translations:
-    en: Armed Forces Pacific
-  geo:
-    latitude: 
-    longitude: 
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  name: Armed Forces Pacific
 AR:
   unofficial_names: Arkansas
   translations:
@@ -251,19 +215,6 @@ AR:
     max_latitude: 36.4997491
     max_longitude: -89.64483790000001
   name: Arkansas
-AS:
-  unofficial_names: American Samoa
-  translations:
-    en: American Samoa
-  geo:
-    latitude: 21.3239718
-    longitude: -157.876498
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  comments: see also separate entry under AS
-  name: American Samoa
 AZ:
   unofficial_names: Arizona
   translations:
@@ -839,19 +790,6 @@ GA:
     max_latitude: 35.0006589
     max_longitude: -80.8407866
   name: Georgia
-GU:
-  unofficial_names: Guam
-  translations:
-    en: Guam
-  geo:
-    latitude: 36.90194
-    longitude: -89.82361
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  comments: see also separate entry under GU
-  name: Guam
 HI:
   unofficial_names: Hawaii
   translations:
@@ -1848,19 +1786,6 @@ MO:
     max_latitude: 40.61364
     max_longitude: -89.09949399999999
   name: Missouri
-MP:
-  unofficial_names: Northern Mariana Islands
-  translations:
-    en: Northern Mariana Islands
-  geo:
-    latitude: 15.1466435
-    longitude: 145.7023038
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  comments: see also separate entry under MP
-  name: Northern Mariana Islands
 MS:
   unofficial_names: Mississippi
   translations:
@@ -2858,19 +2783,6 @@ PA:
     max_latitude: 42.2693866
     max_longitude: -74.6895018
   name: Pennsylvania
-PR:
-  unofficial_names: Puerto Rico
-  translations:
-    en: Puerto Rico
-  geo:
-    latitude: 32.7290818
-    longitude: -117.1517016
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  comments: see also separate entry under PR
-  name: Puerto Rico
 RI:
   unofficial_names: Rhode Island
   translations:
@@ -3226,19 +3138,6 @@ TX:
     max_latitude: 36.5007041
     max_longitude: -93.5080389
   name: Texas
-UM:
-  unofficial_names: United States Minor Outlying Islands
-  translations:
-    en: U.S. Outlying Islands
-  geo:
-    latitude: 28.2021222
-    longitude: -177.3804525
-    min_latitude: 28.1963806
-    min_longitude: -177.3946094
-    max_latitude: 28.2150965
-    max_longitude: -177.3695147
-  comments: see also separate entry under UM
-  name: United States Minor Outlying Islands
 UT:
   unofficial_names: Utah
   translations:
@@ -3381,19 +3280,6 @@ VA:
     max_latitude: 39.466012
     max_longitude: -75.2421573
   name: Virginia
-VI:
-  unofficial_names: Virgin Islands, U.S.
-  translations:
-    en: U.S. Virgin Islands
-  geo:
-    latitude: 33.8569878
-    longitude: -84.5904089
-    min_latitude: 
-    min_longitude: 
-    max_latitude: 
-    max_longitude: 
-  comments: see also separate entry under VI
-  name: Virgin Islands, U.S.
 VT:
   unofficial_names: Vermont
   translations:
